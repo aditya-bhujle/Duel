@@ -1,0 +1,16 @@
+C:\Users\Adi\Documents\CS\C#\Game Project\bin\Debug\net5.0\Game Project.exe
+C:\Users\Adi\Documents\CS\C#\Game Project\bin\Debug\net5.0\Game Project.deps.json
+C:\Users\Adi\Documents\CS\C#\Game Project\bin\Debug\net5.0\Game Project.runtimeconfig.json
+C:\Users\Adi\Documents\CS\C#\Game Project\bin\Debug\net5.0\Game Project.runtimeconfig.dev.json
+C:\Users\Adi\Documents\CS\C#\Game Project\bin\Debug\net5.0\Game Project.dll
+C:\Users\Adi\Documents\CS\C#\Game Project\bin\Debug\net5.0\ref\Game Project.dll
+C:\Users\Adi\Documents\CS\C#\Game Project\bin\Debug\net5.0\Game Project.pdb
+C:\Users\Adi\Documents\CS\C#\Game Project\obj\Debug\net5.0\Game Project.csprojAssemblyReference.cache
+C:\Users\Adi\Documents\CS\C#\Game Project\obj\Debug\net5.0\Game Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adi\Documents\CS\C#\Game Project\obj\Debug\net5.0\Game Project.AssemblyInfoInputs.cache
+C:\Users\Adi\Documents\CS\C#\Game Project\obj\Debug\net5.0\Game Project.AssemblyInfo.cs
+C:\Users\Adi\Documents\CS\C#\Game Project\obj\Debug\net5.0\Game Project.csproj.CoreCompileInputs.cache
+C:\Users\Adi\Documents\CS\C#\Game Project\obj\Debug\net5.0\Game Project.dll
+C:\Users\Adi\Documents\CS\C#\Game Project\obj\Debug\net5.0\ref\Game Project.dll
+C:\Users\Adi\Documents\CS\C#\Game Project\obj\Debug\net5.0\Game Project.pdb
+C:\Users\Adi\Documents\CS\C#\Game Project\obj\Debug\net5.0\Game Project.genruntimeconfig.cache
